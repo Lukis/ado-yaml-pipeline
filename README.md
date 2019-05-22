@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/lgrindahl/YAML%20Demo/_apis/build/status/Lukis.ado-yaml-pipeline?branchName=master)](https://dev.azure.com/lgrindahl/YAML%20Demo/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
